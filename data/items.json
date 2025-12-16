@@ -1,0 +1,44 @@
+[
+  {
+    "key": "superbonbon",
+    "name": "Super Bonbon",
+    "price": 50,
+    "description": "Monte un Pokémon d'un niveau"
+  },
+  {
+    "key": "multiexp",
+    "name": "Multi Exp",
+    "price": 200,
+    "description": "Partage l'EXP avec toute l'équipe"
+  },
+  {
+    "key": "masterball",
+    "name": "Master Ball",
+    "price": 1000,
+    "description": "Capture garantie à 100%"
+  },
+  {
+    "key": "potion",
+    "name": "Potion Max",
+    "price": 100,
+    "description": "Restaure tous les PV"
+  },
+  {
+    "key": "maxelixir",
+    "name": "Max Elixir",
+    "price": 300,
+    "description": "Restaure tous les PP"
+  },
+  {
+    "key": "maxrepel",
+    "name": "Max Repel",
+    "price": 500,
+    "description": "Repousse les Pokémon sauvages longtemps"
+  },
+  {
+    "key": "legendary",
+    "name": "MEW Légendaire",
+    "price": 5000,
+    "description": "Spawn MEW niveau 1"
+  }
+]
