@@ -1,0 +1,16 @@
+[
+    {
+        "command": "malus_invert",
+        "name": "Invert Controls",
+        "icon": "🔄",
+        "price": 500,
+        "description": "Inverts controls for 30 seconds"
+    },
+    {
+        "command": "malus_speed",
+        "name": "Speed x4",
+        "icon": "⚡",
+        "price": 300,
+        "description": "Game goes 4x faster"
+    }
+]

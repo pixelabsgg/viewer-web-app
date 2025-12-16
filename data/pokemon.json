@@ -1,0 +1,43 @@
+﻿[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "price": 100
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "types": [
+            "Fire"
+        ],
+        "price": 100
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "types": [
+            "Water"
+        ],
+        "price": 100
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "types": [
+            "Electric"
+        ],
+        "price": 150
+    },
+    {
+        "id": 150,
+        "name": "Mewtwo",
+        "types": [
+            "Psychic"
+        ],
+        "price": 1000
+    }
+]
